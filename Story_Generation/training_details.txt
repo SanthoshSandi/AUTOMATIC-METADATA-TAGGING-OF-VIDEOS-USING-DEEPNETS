@@ -1,0 +1,12 @@
+K40 GPU
+iisc VAL lab
+Image feature extraction:
+
+Start time: 10:39:08 AM on 19 Jan 2019
+End Time: 
+
+Start time: 11:19:22 AM on 19 Jan 2019
+End Time:
+
+
+Image Feature Extraction: (Approx: 20-25 minutes)
