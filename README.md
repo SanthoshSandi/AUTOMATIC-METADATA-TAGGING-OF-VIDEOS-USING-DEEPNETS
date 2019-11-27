@@ -3,3 +3,6 @@ An incremental approach for movie like story teller using Deep Neural Networks.
 This is my Master's Thesis project done to create a story teller network enabling real-time deep learning models.
 
 Attached with this repository, are the relevant files. 
+
+
+![GitHub Logo](/images/logo.png)
