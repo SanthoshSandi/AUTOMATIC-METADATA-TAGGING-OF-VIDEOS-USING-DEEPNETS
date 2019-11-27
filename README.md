@@ -5,4 +5,4 @@ This is my Master's Thesis project done to create a story teller network enablin
 Attached with this repository, are the relevant files. 
 
 
-![GitHub Logo](/images/logo.png)
+![Data_Flow](/Data_flow.jpg)
